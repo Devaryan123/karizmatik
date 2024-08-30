@@ -226,7 +226,20 @@ html {
   }
   
 
+  
 
+
+}
+.nikith{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.ach{
+  width:100px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
 }
    
 
