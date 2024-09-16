@@ -436,6 +436,7 @@ html {
   width: 100%;
   img{
     width: 100px;
+    height: 100px;
     background-position: center;
     background-size: cover;
     
@@ -490,6 +491,7 @@ html {
   .foot2{
     img{
       width: 125px;
+      height: 125px;
     }
   }
 
