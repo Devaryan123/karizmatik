@@ -429,6 +429,7 @@ html {
 .foot2{
   margin-top: 2rem;
   display: flex;
+  height: auto;
   flex: 1;
   justify-content:center ;
   gap: .3rem;
